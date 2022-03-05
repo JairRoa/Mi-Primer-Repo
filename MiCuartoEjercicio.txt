@@ -1,0 +1,6 @@
+public class MiCuartoEjercicio
+	public static void main (String[] arg){
+		calciuladoraV2 casio = new calculadoraV2();
+		casio.factorUtilizandoMientras(5);
+	}	
+}
